@@ -1,3 +1,7 @@
 this is cs102 lecture notes 
 by course instructor
-clint.p george
+git pull
+git push
+git --version
+git status
+git add
